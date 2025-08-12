@@ -1,9 +1,9 @@
-# mi-primer-proyecto
+# Cliclo de numeros del 1 al 100
 
 
-Soy Raymundo Estudiante de **Ingeniería en Sistemas** en el *Tecnológico de Orizaba (TecNM)*.  
+Soy Raymundo Estudiante de Ingeniería en Sistemas en el *Tecnológico de Orizaba (TecNM)*.  
 
-## 🚀 Objetivo  
+## Objetivo  
 Este repositorio es para practicar GitHub y aplicar al **GitHub Student Developer Pack**.  
 
 ## 💻 Ejemplo de código (Java)  
@@ -19,7 +19,7 @@ public class Numeros1a100 {
 }
 ```
 
-### 📌 Cómo ejecutarlo  
+###  Cómo ejecutarlo  
 1. Guarda el código en un archivo `Numeros1a100.java`.  
 2. Compila y ejecuta desde la terminal:  
 ```bash
