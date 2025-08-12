@@ -1,8 +1,7 @@
 # mi-primer-proyecto
 
-# ¡Hola, soy Raymundo! 👋  
 
-Estudiante de **Ingeniería en Sistemas** en el *Tecnológico de Orizaba (TecNM)*.  
+Soy Raymundo Estudiante de **Ingeniería en Sistemas** en el *Tecnológico de Orizaba (TecNM)*.  
 
 ## 🚀 Objetivo  
 Este repositorio es para practicar GitHub y aplicar al **GitHub Student Developer Pack**.  
