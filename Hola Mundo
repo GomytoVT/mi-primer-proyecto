@@ -1,0 +1,8 @@
+## Hola mundo en java by Raymundo
+
+
+public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("¡Hola, mundo desde el TecNM! - Raymundo");
+    }
+}
